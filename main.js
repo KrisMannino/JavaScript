@@ -2,5 +2,5 @@
 
     var name = "Kris";
     var course = "Javascript yay";
-    course = "JS"
-    alert(course)
+    course = "JS";
+    alert(course);
